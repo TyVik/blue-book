@@ -1,0 +1,49 @@
+[project]
+# PEP 621 project metadata
+# See https://www.python.org/dev/peps/pep-0621/
+dynamic = ["version"]
+authors = [
+    {name = "TyVik", email = "bb@tyvik.ru"},
+]
+license = {text = "GPL-3.0-only"}
+requires-python = ">=3.10"
+name = "blue-book"
+description = "Project to deploy Blue book"
+readme = "README.md"
+classifiers=[
+    "Development Status :: 2 - Pre-Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: Unix",
+    "Operating System :: POSIX",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Topic :: Utilities",
+    "Natural Language :: English",
+]
+dependencies = [
+    "mkdocs>=1.5.3",
+    "mkdocs-htmlproofer-plugin>=0.8.0",
+    "mkdocs-minify-plugin>=0.5.0",
+    "mkdocs-autolinks-plugin>=0.6.0",
+    "mkdocs-material>=8.4.2",
+    "markdown-include>=0.7.0",
+    "mkdocs-section-index>=0.3.4",
+]
+
+[project.urls]
+Issues = "https://github.com/TyVik/blue-book/issues"
+homepage = "https://github.com/TyVik/blue-book"
+documentation = "https://TyVik.github.io/blue-book"
+
+[tool.pdm.scripts]
+run = {cmd = "mkdocs serve"}
+build = {cms = "mkdocs build --strict"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
