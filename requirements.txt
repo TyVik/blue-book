@@ -1,0 +1,7 @@
+mkdocs==1.5.3
+mkdocs-htmlproofer-plugin==1.2.0
+mkdocs-minify-plugin==0.8.0
+mkdocs-autolinks-plugin==0.7.1
+mkdocs-material==9.5.15
+markdown-include==0.8.1
+mkdocs-section-index==0.3.8

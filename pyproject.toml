@@ -42,7 +42,7 @@ documentation = "https://TyVik.github.io/blue-book"
 
 [tool.pdm.scripts]
 run = {cmd = "mkdocs serve"}
-build = {cms = "mkdocs build --strict"}
+build = {cmd = "mkdocs build --strict"}
 
 [build-system]
 requires = ["pdm-backend"]
