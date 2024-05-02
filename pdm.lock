@@ -6,7 +6,7 @@ groups = ["default"]
 cross_platform = true
 static_urls = false
 lock_version = "4.3"
-content_hash = "sha256:b489c394990759ab0704056ea240e1bcdfca88a1bb576310becedab9f0532389"
+content_hash = "sha256:b8021b7d642a310d097a16844469030cdb77a07170be287c54ee615ec5aa84f3"
 
 [[package]]
 name = "babel"
@@ -138,45 +138,6 @@ dependencies = [
 files = [
     {file = "ghp-import-2.1.0.tar.gz", hash = "sha256:9c535c4c61193c2df8871222567d7fd7e5014d835f97dc7b7439069e2413d343"},
     {file = "ghp_import-2.1.0-py3-none-any.whl", hash = "sha256:8337dd7b50877f163d4c0289bc1f1c7f127550241988d568c1db512c4324a619"},
-]
-
-[[package]]
-name = "gitdb"
-version = "4.0.11"
-requires_python = ">=3.7"
-summary = "Git Object Database"
-dependencies = [
-    "smmap<6,>=3.0.1",
-]
-files = [
-    {file = "gitdb-4.0.11-py3-none-any.whl", hash = "sha256:81a3407ddd2ee8df444cbacea00e2d038e40150acfa3001696fe0dcf1d3adfa4"},
-    {file = "gitdb-4.0.11.tar.gz", hash = "sha256:bf5421126136d6d0af55bc1e7c1af1c397a34f5b7bd79e776cd3e89785c2b04b"},
-]
-
-[[package]]
-name = "gitpython"
-version = "3.1.42"
-requires_python = ">=3.7"
-summary = "GitPython is a Python library used to interact with Git repositories"
-dependencies = [
-    "gitdb<5,>=4.0.1",
-]
-files = [
-    {file = "GitPython-3.1.42-py3-none-any.whl", hash = "sha256:1bf9cd7c9e7255f77778ea54359e54ac22a72a5b51288c457c881057b7bb9ecd"},
-    {file = "GitPython-3.1.42.tar.gz", hash = "sha256:2d99869e0fef71a73cbd242528105af1d6c1b108c60dfabd994bf292f76c3ceb"},
-]
-
-[[package]]
-name = "griffe"
-version = "0.42.1"
-requires_python = ">=3.8"
-summary = "Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API."
-dependencies = [
-    "colorama>=0.4",
-]
-files = [
-    {file = "griffe-0.42.1-py3-none-any.whl", hash = "sha256:7e805e35617601355edcac0d3511cedc1ed0cb1f7645e2d336ae4b05bbae7b3b"},
-    {file = "griffe-0.42.1.tar.gz", hash = "sha256:57046131384043ed078692b85d86b76568a686266cc036b9b56b704466f803ce"},
 ]
 
 [[package]]
@@ -329,34 +290,12 @@ files = [
 ]
 
 [[package]]
-name = "mkdocs-autorefs"
-version = "1.0.1"
-requires_python = ">=3.8"
-summary = "Automatically link across pages in MkDocs."
-dependencies = [
-    "Markdown>=3.3",
-    "markupsafe>=2.0.1",
-    "mkdocs>=1.1",
-]
+name = "mkdocs-glightbox"
+version = "0.3.7"
+summary = "MkDocs plugin supports image lightbox with GLightbox."
 files = [
-    {file = "mkdocs_autorefs-1.0.1-py3-none-any.whl", hash = "sha256:aacdfae1ab197780fb7a2dac92ad8a3d8f7ca8049a9cbe56a4218cd52e8da570"},
-    {file = "mkdocs_autorefs-1.0.1.tar.gz", hash = "sha256:f684edf847eced40b570b57846b15f0bf57fb93ac2c510450775dcf16accb971"},
-]
-
-[[package]]
-name = "mkdocs-git-revision-date-localized-plugin"
-version = "1.2.4"
-requires_python = ">=3.8"
-summary = "Mkdocs plugin that enables displaying the localized date of the last git modification of a markdown file."
-dependencies = [
-    "GitPython",
-    "babel>=2.7.0",
-    "mkdocs>=1.0",
-    "pytz",
-]
-files = [
-    {file = "mkdocs-git-revision-date-localized-plugin-1.2.4.tar.gz", hash = "sha256:08fd0c6f33c8da9e00daf40f7865943113b3879a1c621b2bbf0fa794ffe997d3"},
-    {file = "mkdocs_git_revision_date_localized_plugin-1.2.4-py3-none-any.whl", hash = "sha256:1f94eb510862ef94e982a2910404fa17a1657ecf29f45a07b0f438c00767fc85"},
+    {file = "mkdocs-glightbox-0.3.7.tar.gz", hash = "sha256:4e890140a97dd4ad128cb92174384bd0ac33adec3304bbd2b7c48d0847685c4f"},
+    {file = "mkdocs_glightbox-0.3.7-py3-none-any.whl", hash = "sha256:9659631a9829d93d8fb0ce3a20a10261c258605ba4dc87a3b7b5d847b93a276d"},
 ]
 
 [[package]]
@@ -373,6 +312,19 @@ dependencies = [
 files = [
     {file = "mkdocs-htmlproofer-plugin-1.2.0.tar.gz", hash = "sha256:92c5342b18a34a36b82c63f7ec475daf69a390132b2c3ee450f1f613e8291628"},
     {file = "mkdocs_htmlproofer_plugin-1.2.0-py3-none-any.whl", hash = "sha256:311ec5d232d0300403bd3e6947d94d0c057db6faf761d33dd507f662c04bd950"},
+]
+
+[[package]]
+name = "mkdocs-include-dir-to-nav"
+version = "1.2.0"
+requires_python = ">=3.6"
+summary = "A MkDocs plugin include all file in dir to navigation"
+dependencies = [
+    "mkdocs>=1.0.4",
+]
+files = [
+    {file = "mkdocs_include_dir_to_nav-1.2.0-py3-none-any.whl", hash = "sha256:b09de17ad754aa93aec7ba64acf8fdd53f7a2ceb92e8cffe21646b0e97f4ddf0"},
+    {file = "mkdocs_include_dir_to_nav-1.2.0.tar.gz", hash = "sha256:2d7b0bb581471fce6f215b6381f1f4d90a3a069829281b7f5d01a5b7abee15d0"},
 ]
 
 [[package]]
@@ -435,56 +387,6 @@ dependencies = [
 files = [
     {file = "mkdocs_section_index-0.3.8-py3-none-any.whl", hash = "sha256:823d298d78bc1e73e23678ff60889f3c369c2167b03dba73fea88bd0e268a60d"},
     {file = "mkdocs_section_index-0.3.8.tar.gz", hash = "sha256:bbd209f0da79441baf136ef3a9c40665bb9681d1fb62c73ca2f116fd1388a404"},
-]
-
-[[package]]
-name = "mkdocstrings"
-version = "0.24.1"
-requires_python = ">=3.8"
-summary = "Automatic documentation from sources, for MkDocs."
-dependencies = [
-    "Jinja2>=2.11.1",
-    "Markdown>=3.3",
-    "MarkupSafe>=1.1",
-    "click>=7.0",
-    "mkdocs-autorefs>=0.3.1",
-    "mkdocs>=1.4",
-    "platformdirs>=2.2.0",
-    "pymdown-extensions>=6.3",
-]
-files = [
-    {file = "mkdocstrings-0.24.1-py3-none-any.whl", hash = "sha256:b4206f9a2ca8a648e222d5a0ca1d36ba7dee53c88732818de183b536f9042b5d"},
-    {file = "mkdocstrings-0.24.1.tar.gz", hash = "sha256:cc83f9a1c8724fc1be3c2fa071dd73d91ce902ef6a79710249ec8d0ee1064401"},
-]
-
-[[package]]
-name = "mkdocstrings-python"
-version = "1.9.0"
-requires_python = ">=3.8"
-summary = "A Python handler for mkdocstrings."
-dependencies = [
-    "griffe>=0.37",
-    "markdown<3.6,>=3.3",
-    "mkdocstrings>=0.20",
-]
-files = [
-    {file = "mkdocstrings_python-1.9.0-py3-none-any.whl", hash = "sha256:fad27d7314b4ec9c0359a187b477fb94c65ef561fdae941dca1b717c59aae96f"},
-    {file = "mkdocstrings_python-1.9.0.tar.gz", hash = "sha256:6e1a442367cf75d30cf69774cbb1ad02aebec58bfff26087439df4955efecfde"},
-]
-
-[[package]]
-name = "mkdocstrings"
-version = "0.24.1"
-extras = ["python"]
-requires_python = ">=3.8"
-summary = "Automatic documentation from sources, for MkDocs."
-dependencies = [
-    "mkdocstrings-python>=0.5.2",
-    "mkdocstrings==0.24.1",
-]
-files = [
-    {file = "mkdocstrings-0.24.1-py3-none-any.whl", hash = "sha256:b4206f9a2ca8a648e222d5a0ca1d36ba7dee53c88732818de183b536f9042b5d"},
-    {file = "mkdocstrings-0.24.1.tar.gz", hash = "sha256:cc83f9a1c8724fc1be3c2fa071dd73d91ce902ef6a79710249ec8d0ee1064401"},
 ]
 
 [[package]]
@@ -560,15 +462,6 @@ dependencies = [
 files = [
     {file = "python-dateutil-2.9.0.post0.tar.gz", hash = "sha256:37dd54208da7e1cd875388217d5e00ebd4179249f90fb72437e91a35459a0ad3"},
     {file = "python_dateutil-2.9.0.post0-py2.py3-none-any.whl", hash = "sha256:a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427"},
-]
-
-[[package]]
-name = "pytz"
-version = "2024.1"
-summary = "World timezone definitions, modern and historical"
-files = [
-    {file = "pytz-2024.1-py2.py3-none-any.whl", hash = "sha256:328171f4e3623139da4983451950b28e95ac706e13f3f2630a879749e7a8b319"},
-    {file = "pytz-2024.1.tar.gz", hash = "sha256:2a29735ea9c18baf14b448846bde5a48030ed267578472d8955cd0e7443a9812"},
 ]
 
 [[package]]
@@ -695,16 +588,6 @@ summary = "Python 2 and 3 compatibility utilities"
 files = [
     {file = "six-1.16.0-py2.py3-none-any.whl", hash = "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"},
     {file = "six-1.16.0.tar.gz", hash = "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926"},
-]
-
-[[package]]
-name = "smmap"
-version = "5.0.1"
-requires_python = ">=3.7"
-summary = "A pure Python implementation of a sliding window memory map manager"
-files = [
-    {file = "smmap-5.0.1-py3-none-any.whl", hash = "sha256:e6d8668fa5f93e706934a62d7b4db19c8d9eb8cf2adbb75ef1b675aa332b69da"},
-    {file = "smmap-5.0.1.tar.gz", hash = "sha256:dceeb6c0028fdb6734471eb07c0cd2aae706ccaecab45965ee83f11c8d3b1f62"},
 ]
 
 [[package]]

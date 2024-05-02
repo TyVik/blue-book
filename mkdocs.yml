@@ -3,18 +3,25 @@ site_name: Записная книжка
 site_author: TyVik
 site_url: https://TyVik.github.io/blue-book
 nav:
-  - Blue book: index.md
-  - Architecture Decision Records:
-      - adr/adr.md
-      - '001: High level problem analysis': |
-          adr/001-high_level_problem_analysis.md
+  - Blue book: README.md
+  - Документация: Документация
+  - Для детей: Для детей
+  - Биржа: Биржа
+  - 'Online курсы': 'Online курсы'
+  - Менеджмент: Менеджмент
+  - Разработка: Разработка
 
 plugins:
   - search
   - autolinks
+  - glightbox
+  - include_dir_to_nav:
+      file_name_as_title: true
+      file_pattern: '.*'
+      include_empty_dir: true
   - minify:
       minify_html: true
-  - section-index
+#  - section-index
 
 markdown_extensions:
   - abbr
