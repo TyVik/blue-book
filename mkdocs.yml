@@ -56,8 +56,6 @@ markdown_extensions:
 
 theme:
   name: material
-#  custom_dir: docs/theme
-  # logo: 'images/logo.bmp'
   features:
     - navigation.instant
     - navigation.footer
@@ -68,9 +66,10 @@ theme:
     primary: blue grey
     accent: light blue
 
-extra_css:
-  - stylesheets/extra.css
-  - stylesheets/links.css
+extra:
+  analytics:
+    provider: google
+    property: G-9961857XBS
 
 repo_name: TyVik/blue-book
 repo_url: https://github.com/TyVik/blue-book
