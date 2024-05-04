@@ -1,0 +1,1 @@
+- [Важные аспекты Unicode, о которых должен знать каждый разработчик JavaScript](https://habr.com/ru/companies/timeweb/articles/785668/)

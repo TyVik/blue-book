@@ -1,0 +1,4 @@
+- https://testdriven.io/blog/drf-vue-vs-django-htmx/ - как шаблоны Django могут работать с htmx
+- https://github.com/volfpeter/fasthx - библиотека для FastAPI
+- https://habr.com/ru/companies/timeweb/articles/799555/ - как он работает под капотом
+- https://htmx.org/examples/ - официальная страница с примерами

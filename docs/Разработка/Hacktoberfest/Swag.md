@@ -1,0 +1,1 @@
+- [Список компаний, которые раздают мерч](https://hacktoberfestswaglist.com/)

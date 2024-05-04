@@ -1,0 +1,1 @@
+- [GraphQL: от восторга до разочарования](https://habr.com/ru/articles/728476/)

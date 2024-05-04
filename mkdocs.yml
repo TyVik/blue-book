@@ -2,14 +2,11 @@
 site_name: Записная книжка
 site_author: TyVik
 site_url: https://TyVik.github.io/blue-book
-nav:
-  - Blue book: README.md
-  - Документация: Документация
-  - Для детей: Для детей
-  - Биржа: Биржа
-  - 'Online курсы': 'Online курсы'
-  - Менеджмент: Менеджмент
-  - Разработка: Разработка
+#nav:
+#  - Blue book: README.md
+#  - Документация: Документация
+#  - Менеджмент: Менеджмент
+#  - Разработка: Разработка
 
 plugins:
   - search
@@ -17,7 +14,7 @@ plugins:
   - glightbox
   - include_dir_to_nav:
       file_name_as_title: true
-      file_pattern: '.*'
+      file_pattern: '.*.md$'
       include_empty_dir: true
   - minify:
       minify_html: true

@@ -1,0 +1,1 @@
+- [Сложность алгоритмов. Разбор Big O](https://habr.com/ru/articles/782608/)

@@ -1,0 +1,1 @@
+- [UUIDv7](https://habr.com/ru/articles/658855/)
