@@ -1,0 +1,1 @@
+- [Приручаем GitLab: прикольные фишки и инциденты, которые упростят вашу жизнь](https://habr.com/ru/companies/nixys/articles/758068/)

@@ -1,0 +1,2 @@
+- [Почему вы не должны использовать YAML](https://noyaml.com/)
+- [YAML из Ада](https://habr.com/ru/articles/710414/)

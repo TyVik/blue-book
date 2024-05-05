@@ -1,0 +1,1 @@
+- [Полезные трюки при работе с netcat](https://habr.com/ru/articles/336596/)
