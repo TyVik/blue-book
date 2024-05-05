@@ -1,0 +1,1 @@
+- [деградация производительности](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
