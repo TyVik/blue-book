@@ -1,0 +1,1 @@
+- [Запуск проекта в Kubernetes за 60 минут: инструменты, GitLab, Terraform](https://habr.com/ru/companies/vk/articles/782310/)

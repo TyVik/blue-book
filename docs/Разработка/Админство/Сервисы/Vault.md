@@ -1,0 +1,1 @@
+- [Автостопом по HashiCorp Vault](https://habr.com/ru/companies/jetinfosystems/articles/762194/)

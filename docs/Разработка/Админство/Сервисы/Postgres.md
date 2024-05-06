@@ -1,0 +1,1 @@
+- [Первоначальная настройка](https://pgconfigurator.cybertec.at/)

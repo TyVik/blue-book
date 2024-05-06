@@ -1,0 +1,1 @@
+- [Красавица и HTML Injection. Почему HTMLi не только про дефейс](https://habr.com/ru/articles/804863/)

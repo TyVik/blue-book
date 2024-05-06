@@ -1,0 +1,1 @@
+- [Shawarma as a service: как создать бота для заказа шавермы и оставить голодными лишь 1,1% коллег](https://habr.com/ru/companies/selectel/articles/741392/) - WebApp в Telegram

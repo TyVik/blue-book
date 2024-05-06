@@ -1,0 +1,1 @@
+- [Мониторинг Celery](https://habr.com/ru/companies/domclick/articles/804535/) - как встроить prom-мониторинг в Celery, пользуясь только его событиями
