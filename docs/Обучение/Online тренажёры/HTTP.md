@@ -1,0 +1,2 @@
+- [Online REST & SOAP API Testing Tool](https://reqbin.com/)
+- [Hurl](https://hurl.dev/) - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format. Hurl makes it easy to work with HTML content, REST / SOAP / GraphQL APIs, or any other XML / JSON based APIs.
