@@ -1,0 +1,1 @@
+- 🇺🇸 [Создаём свой веб-сервер](https://learn-haskell.blog/03-html/04-safer_construction.html) - Learn Haskell by building a blog generator

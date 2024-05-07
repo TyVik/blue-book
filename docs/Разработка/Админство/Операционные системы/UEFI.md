@@ -1,0 +1,1 @@
+- [Создание своего UEFI приложения](https://habr.com/ru/articles/798587/)

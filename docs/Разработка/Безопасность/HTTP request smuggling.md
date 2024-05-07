@@ -1,0 +1,1 @@
+- [HTTP Request smuggling](https://habr.com/ru/articles/468489/)

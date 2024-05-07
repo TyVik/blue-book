@@ -1,0 +1,3 @@
+- 🇺🇸 [Podman and user namespaces: A marriage made in heaven](https://opensource.com/article/18/12/podman-and-user-namespaces) - Как podman использует user namespace
+- 🇺🇸 [How does rootless Podman work?](https://opensource.com/article/19/2/how-does-rootless-podman-work)
+- [Используем функционал Podman вместо docker-compose на примере Gitea](https://habr.com/ru/articles/705614/)
