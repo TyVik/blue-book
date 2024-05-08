@@ -1,0 +1,1 @@
+- [Как создать приложение вокруг Composition API во Vue 3](https://tproger.ru/articles/kak-sozdat-prilozhenie-vokrug-composition-api-vo-vue-3)
