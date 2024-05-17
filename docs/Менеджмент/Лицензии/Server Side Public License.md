@@ -1,0 +1,1 @@
+- [Как компании зарабатывают на опенсорсе, а потом выкидывают его](https://habr.com/ru/companies/ruvds/articles/811679/) - откуда есть пошли новые лицензии Redis, Elasticsearch, MongoDB и т.п.

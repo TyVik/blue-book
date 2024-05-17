@@ -1,6 +1,7 @@
 ### Учебники
 
 - [GitHowTo](https://githowto.com/ru) - пошаговое руководство
+- [Learn Git branching](https://learngitbranching.js.org/?locale=ru_RU) - песочница для изучения модели ветвления git
 - [Pro git](https://git-scm.com/book/ru/v2) - самая полная книга по git
 
 ### Практики ведения чистой истории
