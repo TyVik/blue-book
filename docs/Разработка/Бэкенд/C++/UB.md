@@ -1,0 +1,1 @@
+- [ubbook](https://github.com/Nekrolm/ubbook) - сборник как отстрелить себе ногу в C++
