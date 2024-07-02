@@ -35,3 +35,5 @@ PermitRootLogin no
 KbdInteractiveAuthentication no
 PermitEmptyPasswords no
 ```
+
+- [Как построить бастион-хост и превратить его в неприступную крепость](https://habr.com/ru/companies/kts/articles/813989/)

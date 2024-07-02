@@ -8,6 +8,7 @@
 
 - [Clean Git History, или Тёмная сторона VCS](https://habr.com/ru/companies/ozontech/articles/754526/)
 - [Оформление коммитов](https://github.com/slashsbin/styleguide-git-commit-message)
+- [Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/)
 
 ### Работа с большими репозиториями
 

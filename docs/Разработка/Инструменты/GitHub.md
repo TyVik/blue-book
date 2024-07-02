@@ -1,0 +1,1 @@
+- [act](https://nektosact.com/introduction.html) - Отладка github actions локально

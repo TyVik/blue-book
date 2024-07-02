@@ -1,1 +1,2 @@
 - [Запуск проекта в Kubernetes за 60 минут: инструменты, GitLab, Terraform](https://habr.com/ru/companies/vk/articles/782310/)
+- [library.tf](https://library.tf/providers/hashicorp/aws/latest) - документация по всем провайдерам и модулям (+ примеры для OpenTofu)

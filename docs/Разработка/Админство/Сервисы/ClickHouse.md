@@ -1,0 +1,1 @@
+- [Краеугольные камни ClickHouse](https://habr.com/ru/companies/wildberries/articles/821865/) - немного про кишочки и как CH хранит данные
