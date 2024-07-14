@@ -1,0 +1,2 @@
+- [Полное руководство по Flexbox](https://habr.com/ru/articles/467049/) - теория
+- [Полное руководство по flexbox + опыт использования](https://habr.com/ru/articles/553266/) - шпаргалка

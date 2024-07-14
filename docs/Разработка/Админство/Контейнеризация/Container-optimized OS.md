@@ -1,0 +1,1 @@
+- [Почему Fedora CoreOS — это container optimized дистрибутив](https://habr.com/ru/companies/selectel/articles/817299/)
