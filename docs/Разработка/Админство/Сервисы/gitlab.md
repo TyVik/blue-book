@@ -1,1 +1,2 @@
 - [Приручаем GitLab: прикольные фишки и инциденты, которые упростят вашу жизнь](https://habr.com/ru/companies/nixys/articles/758068/)
+- [gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - тестирование gitlab-ci.yaml локально

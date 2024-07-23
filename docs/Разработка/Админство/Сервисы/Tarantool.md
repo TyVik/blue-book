@@ -1,0 +1,1 @@
+- [От платформы к коробочным продуктам: анализ архитектуры Tarantool](https://habr.com/ru/companies/vk/articles/819059/) - кратко о фичах Tarantool

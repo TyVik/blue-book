@@ -1,0 +1,1 @@
+- [Пример репозитория](https://gitlab.com/spectr-devsecops/devsecops) - реп с подключёнными анализаторами
