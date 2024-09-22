@@ -8,4 +8,9 @@
 
 ### Миграция с Oracle
 
-- [# Как мы мигрировали из Oracle в PostgreSQL](https://habr.com/ru/companies/vtb/articles/819133/) - опыт ВТБ
+- [Как мы мигрировали из Oracle в PostgreSQL](https://habr.com/ru/companies/vtb/articles/819133/) - опыт ВТБ
+
+### Мониторинг
+
+![https://pgstats.dev](images/pgstats.jpeg)
+- [Что нового в плане мониторинга в PostgreSQL (Алексей Лесовский)](https://habr.com/ru/articles/658137/)

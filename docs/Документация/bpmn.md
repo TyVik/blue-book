@@ -1,0 +1,1 @@
+- [Памятка по BPMN и BPMN-диаграммам](https://habr.com/ru/companies/sberbank/articles/836092/) - самый минимум

@@ -1,2 +1,3 @@
 - [Docker Swarm - k8s для бедных](https://youtu.be/BrOUx5AMOBE?si=K1v-4zLrXNAbaQ-q)
 - https://gist.github.com/binakot/7b48361d5f611f68611b59a99230d1e3
+- [# Деплой в Docker Swarm](https://habr.com/ru/articles/836850/) - из gitlab на прод
