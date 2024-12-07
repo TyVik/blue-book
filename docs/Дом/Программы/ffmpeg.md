@@ -1,0 +1,1 @@
+- [Кодирование с кодеком HEVC простым языком — гайд на FFmpeg. Высокое качество, но низкий вес](https://habr.com/ru/companies/ruvds/articles/845202/)

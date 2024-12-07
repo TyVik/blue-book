@@ -1,1 +1,3 @@
 - [Shawarma as a service: как создать бота для заказа шавермы и оставить голодными лишь 1,1% коллег](https://habr.com/ru/companies/selectel/articles/741392/) - WebApp в Telegram
+- [Готовим Telegram Mini App без туннеля и с Hot Module Reload на React, TypeScript](https://habr.com/ru/articles/789442/)
+- [Создание Telegram Web App с FastAPI: Генерация, сканирование QR-кодов камерой устройства и деплой за 5 минут](https://habr.com/ru/companies/amvera/articles/852490/)

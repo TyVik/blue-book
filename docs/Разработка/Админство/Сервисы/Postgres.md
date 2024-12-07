@@ -1,5 +1,7 @@
 - [Первоначальная настройка](https://pgconfigurator.cybertec.at/)
 - [PgBadger](https://pgbadger.darold.net/examples/sample.html) - GUI для просмотра логов
+- [pgversions](https://pgversions.com/) - показывает различия в фичах и багах между версиями
+- [PgPedia](https://pgpedia.info/) - справочник по фичам Postgres
 
 ### Визуализация explain
 
@@ -14,3 +16,7 @@
 
 ![https://pgstats.dev](images/pgstats.jpeg)
 - [Что нового в плане мониторинга в PostgreSQL (Алексей Лесовский)](https://habr.com/ru/articles/658137/)
+
+### Полнотекстовый поиск
+
+- [Быстрее пули: как найти счастье с PostgreSQL](https://habr.com/ru/companies/rostelecom/articles/853124/)

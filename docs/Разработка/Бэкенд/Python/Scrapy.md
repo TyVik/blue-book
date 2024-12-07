@@ -23,4 +23,4 @@ def parse(self, response):
 - [Scrapoxy](https://scrapoxy.io/) - Scrapoxy is a super proxy aggregator, allowing you to manage all proxies in one place 🎯, rather than spreading it across multiple scrapers 🕸️. 
 - [proxy pool](https://github.com/rejoiceinhope/scrapy-proxy-pool/blob/master/scrapy_proxy_pool/middlewares.py)
 - [Scrapy Beginners Series Part 4: User Agents and Proxies](https://scrapeops.io/python-scrapy-playbook/scrapy-beginners-guide-user-agents-proxies/) - базовая работа с проксями
-
+- [Tor proxy](https://datawookie.dev/blog/2021/06/scrapy-rotating-tor-proxy/) - выбор прокси через Tor

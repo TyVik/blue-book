@@ -1,0 +1,1 @@
+- [Введение в Istio для Kubernetes: основы и начальная настройка](https://habr.com/ru/companies/T1Holding/articles/837896/)

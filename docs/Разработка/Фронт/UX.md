@@ -1,0 +1,1 @@
+- [59 Hilariously Infuriating Examples Of User Interface That Even Satan Himself Couldn’t Come Up With](https://www.boredpanda.com/funny-worst-input-fields/)

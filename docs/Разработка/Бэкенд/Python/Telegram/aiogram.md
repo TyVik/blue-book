@@ -1,0 +1,1 @@
+- [Пишем Telegram-ботов с aiogram 3.x](https://mastergroosha.github.io/aiogram-3-guide/) - актуальные примеры работы с aiogram 3.x

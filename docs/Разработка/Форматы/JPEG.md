@@ -1,1 +1,2 @@
 - [Разбираем самый маленький JPEG в мире](https://habr.com/ru/articles/791302/)
+- [Изобретаем JPEG](https://habr.com/ru/articles/206264/)

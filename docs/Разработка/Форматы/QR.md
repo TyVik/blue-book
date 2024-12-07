@@ -1,0 +1,1 @@
+- [Учимся читать QR-коды без компьютера](https://habr.com/ru/companies/ruvds/articles/849564/)

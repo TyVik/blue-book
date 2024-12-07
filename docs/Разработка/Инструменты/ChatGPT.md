@@ -1,0 +1,4 @@
+- [TryChatGPT](https://trychatgpt.ru/)
+- [anthropic](https://www.anthropic.com/)
+- [DeepSeek](https://chat.deepseek.com/sign_in)
+- [DuckDuckGo](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)

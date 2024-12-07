@@ -1,0 +1,1 @@
+- [Полезные рецепты ручного создания SVG](https://habr.com/ru/companies/timeweb/articles/852522/)
