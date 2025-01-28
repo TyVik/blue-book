@@ -1,4 +1,5 @@
 - [Первоначальная настройка](https://pgconfigurator.cybertec.at/)
+- [Базовая настройка](https://pgtune.godream.su/)
 - [PgBadger](https://pgbadger.darold.net/examples/sample.html) - GUI для просмотра логов
 - [pgversions](https://pgversions.com/) - показывает различия в фичах и багах между версиями
 - [PgPedia](https://pgpedia.info/) - справочник по фичам Postgres

@@ -1,0 +1,1 @@
+- [Все мои Ардуинки: часть вторая, ATtiny и STM](https://habr.com/ru/companies/ruvds/articles/863990/)

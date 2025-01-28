@@ -1,0 +1,1 @@
+- [OAuth 2.0, OpenID Connect и SSO для самых маленьких](https://habr.com/ru/companies/banki/articles/862516/)

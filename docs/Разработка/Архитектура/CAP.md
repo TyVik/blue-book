@@ -1,0 +1,4 @@
+- [Всё, что вы не знали о CAP теореме](https://habr.com/ru/articles/328792/) - вводная статья
+- [Мифы о CAP теореме](https://habr.com/ru/articles/322276/) - критика
+- [Забудьте САР теорему как более не актуальную](https://habr.com/ru/articles/258145/) - критика
+- [Нам мало CAP. Да здравствует PACELC](https://habr.com/ru/companies/gaz-is/articles/551986/) - развитие CAP

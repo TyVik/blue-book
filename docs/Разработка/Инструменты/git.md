@@ -17,3 +17,7 @@
 ### Настройка окружения
 
 - [Популярные конфигурационные опции для работы с git](https://habr.com/ru/articles/796119/)
+
+### Остальное
+
+- [Создание Git-коммита: The Hard Way](https://habr.com/ru/companies/beget/articles/841984/)

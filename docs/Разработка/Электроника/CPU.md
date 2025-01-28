@@ -1,0 +1,1 @@
+- [486-го хватит всем](https://habr.com/ru/articles/856572/)

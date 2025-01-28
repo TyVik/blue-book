@@ -1,0 +1,1 @@
+- [Большой гайд по миграциям в Django: полезные советы и обход типичных подводных камней](https://habr.com/ru/companies/idaproject/articles/865036/)

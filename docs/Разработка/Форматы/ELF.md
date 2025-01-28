@@ -1,0 +1,1 @@
+- [Упрощаем «простой» ELF](https://habr.com/ru/companies/ruvds/articles/870674/)

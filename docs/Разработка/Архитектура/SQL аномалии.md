@@ -1,0 +1,1 @@
+- [От Isolation к Consistency — дорога длиной в 30 лет](https://habr.com/ru/articles/705332/)

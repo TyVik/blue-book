@@ -1,0 +1,1 @@
+- [Pydantic 2: Полное руководство для Python-разработчиков — от основ до продвинутых техник](https://habr.com/ru/companies/amvera/articles/851642/)
