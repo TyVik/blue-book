@@ -1,2 +1,2 @@
 - [Дизайн и реализация виртуальной машины CPython](https://habr.com/ru/companies/beget/articles/850578/)
-
+- [Дескрипторы Python. Подробное руководство](https://habr.com/ru/articles/914650/)

@@ -1,0 +1,2 @@
+- [CAP-n-Coq. Часть 1. Определения CAP-теоремы](https://habr.com/ru/articles/870864/) - введение доказательства CAP через Coq
+- [CAP, Coq и Евклид](https://habr.com/ru/articles/870936/) - простейшие теоремы на Coq

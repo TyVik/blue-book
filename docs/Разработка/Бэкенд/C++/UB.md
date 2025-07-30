@@ -1,1 +1,2 @@
 - [ubbook](https://github.com/Nekrolm/ubbook) - сборник как отстрелить себе ногу в C++
+- [Путеводитель C++ программиста по неопределённому поведению](https://habr.com/ru/companies/pvs-studio/articles/877274/) - книга с описанием UB

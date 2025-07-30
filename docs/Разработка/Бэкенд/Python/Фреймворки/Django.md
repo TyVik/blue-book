@@ -1,1 +1,2 @@
 - [Большой гайд по миграциям в Django: полезные советы и обход типичных подводных камней](https://habr.com/ru/companies/idaproject/articles/865036/)
+- [How to Get Foreign Keys Horribly Wrong](https://hakibenita.com/django-foreign-keys) - Common Pitfalls and Potential Optimizations in Django

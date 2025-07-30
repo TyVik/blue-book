@@ -1,1 +1,2 @@
 - [Автостопом по HashiCorp Vault](https://habr.com/ru/companies/jetinfosystems/articles/762194/)
+- [Vault8s: доставляем секреты из HashiCorp Vault в Kubernetes](https://habr.com/ru/companies/oleg-bunin/articles/919234/)

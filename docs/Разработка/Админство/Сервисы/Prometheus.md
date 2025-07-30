@@ -1,0 +1,2 @@
+- [Deckhouse Prom++: мы добавили плюсы к Prometheus и сократили потребление памяти в 7,8 раза](https://habr.com/ru/companies/flant/articles/878282/)
+- [«База» по метрикам в Prometheus](https://habr.com/ru/companies/sportmaster_lab/articles/872204/)

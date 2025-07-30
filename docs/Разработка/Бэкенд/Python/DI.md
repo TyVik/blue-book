@@ -1,0 +1,1 @@
+- [Год с Dishka: какой он — модный DI-контейнер?](https://habr.com/ru/articles/894286/) - пример использования dishka

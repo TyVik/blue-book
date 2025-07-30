@@ -1,1 +1,3 @@
 - [Создание своего UEFI приложения](https://habr.com/ru/articles/798587/)
+- [Внутренняя кухня UEFI: что это такое и как мы готовим его в YADRO](https://habr.com/ru/companies/yadro/articles/886480/)
+- [Пишем свой загрузчик операционной системы Linux](https://habr.com/ru/companies/ruvds/articles/861624/)

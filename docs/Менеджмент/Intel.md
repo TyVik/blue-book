@@ -1,3 +1,4 @@
 - [Made at Intel](https://habr.com/ru/articles/737294/) - шикарный цикл статей про внутрянку Intel
 - [AMD - вечная канарейка Intel](https://habr.com/ru/companies/timeweb/articles/745866/) - про историю AMD
 - [Ошибка ценой в 50 лет: как Intel потеряла корону в процессорной гонке](https://habr.com/ru/articles/855884/) - про плохую коммуникацию с комьюнити
+- [Intel на грани краха: культурный упадок и ошибочная стратегия](https://habr.com/ru/articles/891906/)

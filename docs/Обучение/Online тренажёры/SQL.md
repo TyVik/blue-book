@@ -1,0 +1,4 @@
+- [SQLite online](https://sqliteonline.com/)
+- [SQL Fiddle](https://sqlfiddle.com/postgresql/online-compiler?sqlFiddleLegacyID=17-145c2-1)
+- [SQL Noir](https://www.sqlnoir.com/) - игра в детектива на SQL
+- [SQL: бесплатные курсы и тренажёры, которые стоит попробовать](https://habr.com/ru/companies/yandex_praktikum/articles/904104/)

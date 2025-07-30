@@ -1,2 +1,3 @@
 - [Джентльменский набор OSINT](https://habr.com/ru/articles/811183/) - список OSINT-фреймворков
 - [Close-Circuit Telegram Vision](https://github.com/IvanGlinkin/CCTV) - поиск местоположения людей по Telegram
+- [PlatesMania](https://platesmania.com/) - инфа об автомобильных номерах

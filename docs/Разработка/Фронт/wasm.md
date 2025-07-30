@@ -1,1 +1,2 @@
 - [Wasm vs Docker containers vs Kubernetes vs serverless: битва за первенство](https://habr.com/ru/companies/flant/articles/796857/) - развитие wasm для edge-устройств
+- [Расширение возможностей веб-сервера при помощи WASM на примере Angie](https://habr.com/ru/articles/898022/)

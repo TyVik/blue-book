@@ -1,0 +1,1 @@
+- [Пишем стек TCP/IP с нуля: основы TCP и Handshake](https://habr.com/ru/articles/891682/)

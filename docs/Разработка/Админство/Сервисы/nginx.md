@@ -1,0 +1,1 @@
+- [Автоматический HTTPS для ленивых: ACME + Angie один раз и навсегда](https://habr.com/ru/articles/912814/)

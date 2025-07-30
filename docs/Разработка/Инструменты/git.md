@@ -16,8 +16,16 @@
 
 ### Настройка окружения
 
-- [Популярные конфигурационные опции для работы с git](https://habr.com/ru/articles/796119/)
+- [Популярные конфигурационные опции для работы с git](https://habr.com/ru/articles/796119/) - более сложные настройки
+- [Как конфигурировать Git](https://habr.com/ru/articles/886538/) - базовые настройки
 
 ### Остальное
 
 - [Создание Git-коммита: The Hard Way](https://habr.com/ru/companies/beget/articles/841984/)
+- [Мастер-класс по точечному переносу изменений между ветками в git](https://habr.com/ru/companies/datafeel/articles/875258/)
+- [Как исправлять ошибки в Git, не оставляя улик](https://habr.com/ru/articles/881614/) - про `--fixup`
+- [Призраки в коммитах: как я заработал $64 000 на удаленных файлах в Git](https://habr.com/ru/companies/bastion/articles/916752/)
+
+### Критика
+
+- [Ёбаный Git!!!](https://ohshitgit.com/ru)

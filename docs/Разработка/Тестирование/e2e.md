@@ -1,0 +1,1 @@
+- [API автотесты на Python с запуском на CI/CD и Allure отчетом](https://habr.com/ru/articles/895452/)

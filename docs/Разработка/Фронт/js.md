@@ -1,0 +1,1 @@
+- [О странностях Javascript](https://habr.com/ru/articles/904868/)

@@ -1,0 +1,1 @@
+- [Безумные и забавные факты о SQLite](https://habr.com/ru/companies/ruvds/articles/873816/)

@@ -1,0 +1,6 @@
+- [Flappy Bird](https://ivaniksanov.github.io/index.html) - песочница для тестирования навыков
+- [Большая подборка тестовых площадок («песочниц») и ресурсов для начинающих и опытных QA](https://habr.com/ru/articles/906152/)
+- [Где набраться практики начинающему тестировщику: от учебных полигонов до open source](https://habr.com/ru/companies/yadro/articles/907598/)
+- [QARocks](https://qarocks.ru/)
+- [UI автотесты на Python с запуском на CI/CD и Allure отчетом. PageObject, PageComponent, PageFactory](https://habr.com/ru/articles/896936/) - пошаговый гайд как писать автотесты на UI
+- [MentorPiece](https://mentorpiece.org/%d0%bf%d1%80%d0%be%d1%84%d0%be%d1%80%d0%b8%d0%b5%d0%bd%d1%82%d0%b0%d1%86%d0%b8%d1%8f/) - курс по профориентации для QA. [Подробнее](https://habr.com/ru/articles/912488/)

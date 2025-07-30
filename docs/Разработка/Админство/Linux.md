@@ -4,6 +4,7 @@ https://habr.com/ru/articles/785358/
 https://habr.com/ru/articles/712376/
 https://habr.com/ru/articles/822193/
 https://habr.com/ru/articles/855804/
+https://habr.com/ru/articles/867114/
 
 # Права пользователя
 https://habr.com/ru/companies/selectel/articles/791454/
