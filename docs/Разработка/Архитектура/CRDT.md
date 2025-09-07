@@ -1,0 +1,1 @@
+- [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) - введение что такое CRDT

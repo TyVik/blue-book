@@ -1,0 +1,1 @@
+- [HAProxy в 2025: от TCP до L7 — балансировка без боли](https://habr.com/ru/companies/gnivc/articles/935146/) - основные понятия и настройки

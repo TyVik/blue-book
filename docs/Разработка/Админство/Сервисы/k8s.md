@@ -1,5 +1,6 @@
 - [intro](https://habr.com/ru/articles/777728/)
 - [Погружаемся в Kubernetes: полезные материалы от сотрудников Selectel](https://habr.com/ru/companies/selectel/articles/796301/)
+- [A visual guide on troubleshooting Kubernetes deployments](https://learnkube.com/troubleshooting-deployments)
 
 ### Stateful
 

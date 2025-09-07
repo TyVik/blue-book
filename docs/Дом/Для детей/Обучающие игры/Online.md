@@ -2,6 +2,8 @@
 - [Небольшие игры для детей об окружающем мире](https://nplus1.ru/search?tags=946)
 - [Игра на эрудицию для 2-3 человек](https://conquiztador.online/)
 - [Travle](https://travle.earth/) - игра по географии
+- [Neal fun](https://neal.fun/) - игры-инфографика
+- [ncase](https://ncase.me/projects/) - игры, объясняющие всякие принципы
 
 
 

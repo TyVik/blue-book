@@ -2,3 +2,4 @@
 - [Learning Platform to Master Cloud Native Craft](https://labs.iximiuz.com/) - Курсы, задачки и песочницы для DevOps 
 - [Play with Kubernetes](https://labs.play-with-k8s.com/) - A simple, interactive and fun playground to learn Kubernetes
 - [LabEx](https://labex.io/)
+- [Sad servers](https://sadservers.com/scenarios)

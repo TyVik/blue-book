@@ -1,0 +1,1 @@
+- [Погружение в инструменты диагностики Linux. Часть 1 — sysdig](https://habr.com/ru/articles/876160/)

@@ -1,2 +1,3 @@
 - [История Same Origin Policy](https://habr.com/ru/articles/833132/)
 - [CORS, CORP, COEP, COOP. Разбираемся со всеми CO* и смотрим на нюансы](https://habr.com/ru/articles/893340/)
+- [CORS для чайников: история возникновения, как устроен и оптимальные методы работы](https://habr.com/ru/companies/macloud/articles/553826/)

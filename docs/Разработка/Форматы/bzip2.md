@@ -1,0 +1,1 @@
+- [Как написать bzip2-архиватор на Python: разбираем преобразование Барроуза-Уилера](https://habr.com/ru/companies/kts/articles/937554/)

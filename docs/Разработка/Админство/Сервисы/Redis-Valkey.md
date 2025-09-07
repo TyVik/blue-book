@@ -1,1 +1,2 @@
 - [Эволюция Redis в Valkey 8.0: разбираем архитектурные изменения с точки зрения производительности](https://habr.com/ru/companies/oleg-bunin/articles/893680/)
+- [Оптимизация Redis для высоких нагрузок: полное руководство](https://habr.com/ru/companies/selectel/articles/931760/)

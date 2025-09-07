@@ -1,4 +1,5 @@
 - [Памятка по BPMN и BPMN-диаграммам](https://habr.com/ru/companies/sberbank/articles/836092/) - самый минимум
+- [Легкий путь к BPMN: просто, быстро и без заморочек](https://habr.com/ru/articles/905894/)
 
 ### Инструменты
 
