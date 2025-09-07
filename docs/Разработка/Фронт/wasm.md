@@ -18,7 +18,7 @@
 Контейнеры:
 
 - [WebAssembly: Docker без контейнеров](https://habr.com/ru/companies/flant/articles/734678/)
-- [Обзор Kwasm — оператора для запуска WebAssembly-приложений в кластере Kubernetes]https://habr.com/ru/companies/flant/articles/845804/)
+- [Обзор Kwasm — оператора для запуска WebAssembly-приложений в кластере Kubernetes](https://habr.com/ru/companies/flant/articles/845804/)
 - [Wasm vs Docker containers vs Kubernetes vs serverless: битва за первенство](https://habr.com/ru/companies/flant/articles/796857/) 
 
 Инструменты:
@@ -53,6 +53,7 @@ awesome-списки (не разбирал):
 - [WebAssembly: короткий обзор ассемблера для фронтенда / Хабр](https://habr.com/ru/companies/vk/articles/775852/) с js
 
 На потом:
+
 - [Использование потоков WebAssembly из C, C++ и Rust / Хабр](https://habr.com/ru/companies/ruvds/articles/569578/)
 - [Используем клиентский процессор по максимуму. Часть 1: Rust + WebAssembly / Хабр](https://habr.com/ru/companies/ruvds/articles/662363/)
 - [Используем клиентский процессор по максимуму. Часть 2: SIMD + мультипоточность / Хабр](https://habr.com/ru/companies/ruvds/articles/663936/)
