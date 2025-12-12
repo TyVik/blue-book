@@ -1,1 +1,3 @@
 - [VM Options Explorer](https://chriswhocodes.com/)
+- [Многопоточность без боли: моя шпаргалка для собесов в Java / Хабр](https://habr.com/ru/articles/966892/)
+- [Java Concurrent Animated](https://www.jconcurrent.com/)

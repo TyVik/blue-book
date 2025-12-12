@@ -7,6 +7,7 @@
 - [Как стать Python-разработчиком с нуля — личный опыт](https://habr.com/ru/articles/724844/)
 - [Как стать Python-разработчиком бесплатно? Программа обучения с нуля](https://habr.com/ru/articles/817219/)
 - [pycore](https://github.com/amaargiru/pycore) - курс на русском
+- [Полезные ресурсы по Python, которые я собрал / Хабр](https://habr.com/ru/articles/887430/)
 
 ## Курсы
 

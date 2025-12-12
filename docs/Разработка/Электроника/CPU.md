@@ -1,1 +1,2 @@
 - [486-го хватит всем](https://habr.com/ru/articles/856572/)
+- [Tiny8 0.2.0 documentation](https://sql-hkr.github.io/tiny8/)

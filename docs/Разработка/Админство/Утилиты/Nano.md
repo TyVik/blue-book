@@ -1,0 +1,1 @@
+- [Настраиваем nano под себя / Хабр](https://habr.com/ru/articles/963940/)

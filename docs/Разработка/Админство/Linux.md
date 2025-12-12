@@ -24,3 +24,7 @@ https://habr.com/ru/companies/selectel/articles/791454/
 # Планировщик
 
 - [Linux: долгий путь к ленивому вытеснению](https://habr.com/ru/companies/timeweb/articles/864760/)
+
+# Systemd
+
+[Systemd: полное руководство для админов + примеры / Хабр](https://habr.com/ru/articles/942760/)

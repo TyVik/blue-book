@@ -4,6 +4,8 @@
 - [Travle](https://travle.earth/) - игра по географии
 - [Neal fun](https://neal.fun/) - игры-инфографика
 - [ncase](https://ncase.me/projects/) - игры, объясняющие всякие принципы
+- [The Scale of the Universe 2](https://www.htwins.net/scale2/)
+- [Bartosz Ciechanowski](https://ciechanow.ski/) - прекрасные анимации физических процессов
 
 
 

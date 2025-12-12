@@ -4,3 +4,6 @@
 - [SQL: бесплатные курсы и тренажёры, которые стоит попробовать](https://habr.com/ru/companies/yandex_praktikum/articles/904104/)
 - [Lost at SQL](https://lost-at-sql.therobinlord.com/) - игра про подводную лодку
 - [SQL Playground](https://sql-playground.wizardzines.com/) - просто online тренажёр
+- [SQL для всех: от новичка до профи. Полный гид по тренажерам, курсам и песочницам / Хабр](https://habr.com/ru/articles/943924/)
+- [Title Unavailable \| Site Unreachable](https://sql.idebugger.dev/)
+- [SQL Academy](https://sql-academy.org/ru)

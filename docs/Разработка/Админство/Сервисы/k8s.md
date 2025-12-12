@@ -1,6 +1,8 @@
 - [intro](https://habr.com/ru/articles/777728/)
 - [Погружаемся в Kubernetes: полезные материалы от сотрудников Selectel](https://habr.com/ru/companies/selectel/articles/796301/)
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnkube.com/troubleshooting-deployments)
+- [Kubernetes Spec v1.34: Reference Guide and Documentation](https://kubespec.dev/)
+- [А кто у вас отвечает за kube-api? Безопасность Kubernetes при помощи CIS Benchmark / Хабр](https://habr.com/ru/companies/selectel/articles/963562/) - сборник практик по обеспечению безопасности
 
 ### Stateful
 

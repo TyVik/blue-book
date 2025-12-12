@@ -1,0 +1,1 @@
+- [GitHub - volkanin/inet\_protocols\_slides: Презентации для курса "Протоколы Интернет" УрФУ](https://github.com/volkanin/inet_protocols_slides/tree/master)

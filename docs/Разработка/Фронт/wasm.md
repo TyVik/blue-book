@@ -9,11 +9,13 @@
 - [wasm-wat-samples](https://github.com/eliben/wasm-wat-samples/) - примеры маленьких программ
 - [Wasm by example](https://wasmbyexample.dev/home.en-us.html#) - first-steps
 - [Introduction - Rust and WebAssembly](https://rustwasm.github.io/docs/book/) - Rust book для wasm
+- [Изучаем WebAssembly с помощью Rust](https://nuancesprog.ru/p/8072/) - quick start wasm + rust
 
 Документация:
 
 - [MDN WebAssembly](https://developer.mozilla.org/ru/docs/WebAssembly/)
 - [WebAssembly](https://webassembly.github.io/spec/core/intro/index.html) - официальный сайт
+- [Feature Status - WebAssembly](https://webassembly.org/features/)
 
 Контейнеры:
 
@@ -57,3 +59,6 @@ awesome-списки (не разбирал):
 - [Использование потоков WebAssembly из C, C++ и Rust / Хабр](https://habr.com/ru/companies/ruvds/articles/569578/)
 - [Используем клиентский процессор по максимуму. Часть 1: Rust + WebAssembly / Хабр](https://habr.com/ru/companies/ruvds/articles/662363/)
 - [Используем клиентский процессор по максимуму. Часть 2: SIMD + мультипоточность / Хабр](https://habr.com/ru/companies/ruvds/articles/663936/)
+
+- [Wasm, WASI, Wagi: What are they?](https://www.fermyon.com/blog/wasm-wasi-wagi)
+- [WebAssembly, WASI, and the Component Model](https://www.fermyon.com/blog/webassembly-wasi-and-the-component-model)

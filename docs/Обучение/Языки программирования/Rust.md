@@ -1,2 +1,5 @@
 - [rustlings](https://github.com/rust-lang/rustlings) - 🦀 Small exercises to get you used to reading and writing Rust code!
 - [Про Rust — просто. Что читать в каком порядке?](https://habr.com/ru/companies/bitrix/articles/878912/) - список литературы
+- [Rust Compiler Error Index](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/error-index.html) - подробное описание ошибок
+- [Что происходит после fn main() в Rust? / Хабр](https://habr.com/ru/companies/beget/articles/972248/)
+- 
