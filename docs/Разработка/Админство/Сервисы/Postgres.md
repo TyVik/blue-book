@@ -3,6 +3,9 @@
 - [PgBadger](https://pgbadger.darold.net/examples/sample.html) - GUI для просмотра логов
 - [pgversions](https://pgversions.com/) - показывает различия в фичах и багах между версиями
 - [PgPedia](https://pgpedia.info/) - справочник по фичам Postgres
+- [25 железных правил проектирования баз данных в PostgreSQL / Хабр](https://habr.com/ru/articles/996560/)
+- [Как построить отказоустойчивый PostgreSQL-кластер и не промахнуться / Хабр](https://habr.com/ru/companies/postgrespro/articles/1004040/)
+- [Про избыточность WAL в Postgres / Хабр](https://habr.com/ru/companies/oleg-bunin/articles/995820/)
 
 ### Оптимизация
 
@@ -38,3 +41,6 @@
 ### TOAST
 
 - [Техника TOAST (The Oversized-Attribute Storage Technique) в PostgreSQL](https://habr.com/ru/articles/888926/)
+
+### array
+- [Обратная сторона массивов в PostgreSQL / Хабр](https://habr.com/ru/companies/magnus-tech/articles/990146/)

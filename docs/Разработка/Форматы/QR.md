@@ -1,1 +1,2 @@
 - [Учимся читать QR-коды без компьютера](https://habr.com/ru/companies/ruvds/articles/849564/)
+- [И еще немного о QR кодах / Хабр](https://habr.com/ru/articles/981968/)

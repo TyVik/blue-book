@@ -12,3 +12,7 @@
 ## Курсы
 
 - [Devman](https://dvmn.org/) - с участием Соболева
+
+### Интерактивные
+
+- [Python Exercises, Practice, Challenges \[385+ Exercises\] – PYnative](https://pynative.com/python-exercises-with-solutions/)

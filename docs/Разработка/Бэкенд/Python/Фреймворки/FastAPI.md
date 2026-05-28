@@ -1,1 +1,2 @@
 - [Наш архитектурный подход к Python приложениям](https://habr.com/ru/companies/raiffeisenbank/articles/885792/) - простая и логичная структура приложения
+- [Ваша LLM стримит в никуда: разбираемся, как работать с дисконнектами в FastAPI / Хабр](https://habr.com/ru/companies/tochka/articles/992134/) - с примерами про ASGI

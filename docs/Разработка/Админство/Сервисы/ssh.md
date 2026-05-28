@@ -38,3 +38,6 @@ PermitEmptyPasswords no
 
 - [Как построить бастион-хост и превратить его в неприступную крепость](https://habr.com/ru/companies/kts/articles/813989/)
 - [Как настроить двухфакторную аутентификацию через Telegram для SSH](https://habr.com/ru/articles/838940/)
+- [Наглядное руководство по SSH-туннелям / Хабр](https://habr.com/ru/companies/flant/articles/691388/)
+- [Памятка пользователям ssh / Хабр](https://habr.com/ru/articles/122445/)
+- [Изнурительно подробное руководство по SSH (лишь те аспекты, которые я нахожу полезными)](https://habr.com/ru/articles/1037106/)

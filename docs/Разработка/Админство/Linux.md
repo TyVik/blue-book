@@ -28,3 +28,7 @@ https://habr.com/ru/companies/selectel/articles/791454/
 # Systemd
 
 [Systemd: полное руководство для админов + примеры / Хабр](https://habr.com/ru/articles/942760/)
+
+# Загрузка
+
+[Сеть вместо SD-карты: как собрать минимальный Linux для Raspberry Pi с возможностью загрузки по сети / Хабр](https://habr.com/ru/companies/ruvds/articles/976846/)

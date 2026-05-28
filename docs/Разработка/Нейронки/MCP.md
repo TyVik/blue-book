@@ -1,5 +1,6 @@
 - [mcp for beginners](https://github.com/microsoft/mcp-for-beginners) - сборник гайдов от Microsoft
 - [GitHub - pridees/agentic-design-patterns-book-rus: 🇷🇺 Русский перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем](https://github.com/pridees/agentic-design-patterns-book-rus?tab=readme-ov-file)
+- [Базовый минимум. Часть 4:  ИИ-агенты / Хабр](https://habr.com/ru/articles/1013540/)
 
 ## LangGraph
 

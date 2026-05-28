@@ -3,3 +3,4 @@
 
 - [easy-xray github](https://github.com/EvgenyNerush/easy-xray/tree/main)
 - [GUI для проксей](https://github.com/MHSanaei/3x-ui)
+- [Отправим стукачей в ГУЛАГ / Хабр](https://habr.com/ru/articles/1022390/)

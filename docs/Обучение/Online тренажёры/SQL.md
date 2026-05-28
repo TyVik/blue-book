@@ -7,3 +7,5 @@
 - [SQL для всех: от новичка до профи. Полный гид по тренажерам, курсам и песочницам / Хабр](https://habr.com/ru/articles/943924/)
 - [Title Unavailable \| Site Unreachable](https://sql.idebugger.dev/)
 - [SQL Academy](https://sql-academy.org/ru)
+
+- [DB Fiddle - SQL Database Playground](https://www.db-fiddle.com/)

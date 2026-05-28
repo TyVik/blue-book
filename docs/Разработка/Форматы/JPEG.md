@@ -1,2 +1,3 @@
 - [Разбираем самый маленький JPEG в мире](https://habr.com/ru/articles/791302/)
 - [Изобретаем JPEG](https://habr.com/ru/articles/206264/)
+- [В каждом JPEG зашита модель вашей сетчатки. Буквально / Хабр](https://habr.com/ru/articles/1013668/)

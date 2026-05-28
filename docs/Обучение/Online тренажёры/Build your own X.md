@@ -1,2 +1,4 @@
 - [CodeCrafters](https://app.codecrafters.io/catalog) - частично бесплатный тренажёр по реализации популярных технологий с нуля. Помогает изучить внутреннее устройство.
 - [build-your-own](https://build-your-own.org/) - реализация некоторых популярных вещей с нуля.
+- [Внутреннее устройство веб-сервера. Часть 1: От syscalls до WSGI / Хабр](https://habr.com/ru/articles/1002550/) - python wsgi сервер
+- [Возможно, самый гениальный код на python на сегодня: разбираем 200-строчный microgpt от Андрея Карпаты / Хабр](https://habr.com/ru/articles/996404/)

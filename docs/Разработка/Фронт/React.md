@@ -7,3 +7,4 @@
 
 - [От React всё так же веет безумием, но все об этом молчат](https://habr.com/ru/companies/ruvds/articles/926286/) - критика хуков
 - [Я ненавижу React / Хабр](https://habr.com/ru/articles/959358/)
+- [Как мы изобрели PHP, но в 10 раз медленнее: почему React Server Components – это архитектурный тупик / Хабр](https://habr.com/ru/articles/1005838/)
