@@ -31,7 +31,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: bb-site
-          path: site.tar.gz
+          path: bb.tar.gz
           retention-days: 1
 
       - name: Copy archive to remote server
