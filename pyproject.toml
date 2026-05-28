@@ -6,10 +6,10 @@ authors = [
     {name = "TyVik", email = "bb@tyvik.ru"},
 ]
 license = {text = "GPL-3.0-only"}
-requires-python = ">=3.10"
+requires-python = ">=3.13,<3.15"
 name = "blue-book"
 description = "Project to deploy Blue book"
-readme = "README.md"
+#readme = "README.md"
 classifiers=[
     "Development Status :: 2 - Pre-Alpha",
     "Intended Audience :: Developers",
@@ -18,12 +18,9 @@ classifiers=[
     "Operating System :: POSIX",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.7",
-    "Programming Language :: Python :: 3.8",
-    "Programming Language :: Python :: 3.9",
-    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.13",
     "Topic :: Utilities",
-    "Natural Language :: English",
+    "Natural Language :: Russian",
 ]
 dependencies = [
     "mkdocs>=1.5.3",
