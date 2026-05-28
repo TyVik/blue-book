@@ -53,11 +53,10 @@ jobs:
           key: ${{ secrets.SERVER_SSH_KEY }}
           port: ${{ secrets.SERVER_PORT || 22 }}
           script: |
-            SHORT_SHA=${{ github.sha::7 }}
+            SHORT_SHA=$(echo "${{ github.sha }}" | cut -c1-7)
             DEPLOY_PATH="/opt/bb/$SHORT_SHA"
             mkdir -p $DEPLOY_PATH
             tar -xzf /tmp/bb.tar.gz -C $DEPLOY_PATH
-            rm /var/www/bb
-            ln -s $DEPLOY_PATH /var/www/bb
+            ln -sfn $DEPLOY_PATH /var/www/bb
             rm -f /tmp/bb.tar.gz
             echo "✅ Сайт успешно распакован в $DEPLOY_PATH"
