@@ -1,0 +1,1 @@
+- [Анатомия WebSocket: человечный разбор RFC 6455 / Хабр](https://habr.com/ru/articles/1004772/)

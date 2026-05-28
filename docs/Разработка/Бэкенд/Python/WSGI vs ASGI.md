@@ -1,0 +1,1 @@
+- [От WSGI к ASGI: как Python научился работать с асинхронным вебом / Хабр](https://habr.com/ru/articles/1003282/)

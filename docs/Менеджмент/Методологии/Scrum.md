@@ -1,2 +1,3 @@
 - [Почему Scrum так изматывает](https://habr.com/ru/companies/ruvds/articles/844506/)
 - [The Scream Guide](https://docs.google.com/document/d/1-2aZP3BlctQrWP8bNpSxkVBKphypALPINUGGTn26els/mobilebasic#h.vp3s4al4930s) - критика scrum
+- [Title Unavailable \| Site Unreachable](https://blog.0x08.ru/lie-fake-and-agile)

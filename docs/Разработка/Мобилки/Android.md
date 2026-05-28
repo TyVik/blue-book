@@ -1,0 +1,1 @@
+- [Реверс-инжиниринг приложений на Android: знакомство с Frida / Хабр](https://habr.com/ru/companies/selectel/articles/973526/)
