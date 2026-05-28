@@ -22,9 +22,7 @@ jobs:
         run: pdm install
 
       - name: Build MkDocs
-        script: |
-          source .venv/bin/activate
-          mkdocs build
+        run: source .venv/bin/activate && mkdocs build
 
       - name: Create archive
         run: tar -czvf bb.tar.gz -C site .
