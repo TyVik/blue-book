@@ -1,1 +1,2 @@
 - [От WSGI к ASGI: как Python научился работать с асинхронным вебом / Хабр](https://habr.com/ru/articles/1003282/)
+- [Внутреннее устройство веб-сервера. Часть 1: От syscalls до WSGI](https://habr.com/ru/articles/1002550/)

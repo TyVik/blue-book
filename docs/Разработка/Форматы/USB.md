@@ -1,1 +1,2 @@
 - [Пишем простой драйвер Linux для устройства, ничего не зная о драйверах и о USB](https://habr.com/ru/companies/ruvds/articles/927120/)
+- [USB без магии: устройство протокола](https://habr.com/ru/companies/ruvds/articles/1048666/)

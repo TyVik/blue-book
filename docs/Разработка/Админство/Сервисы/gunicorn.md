@@ -1,0 +1,1 @@
+- [Отказоустойчивый запуск WSGI приложения. Обзор архитектуры Gunicorn / Хабр](https://habr.com/ru/companies/domclick/articles/882042/)

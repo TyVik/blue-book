@@ -25,6 +25,7 @@
 
 ![https://pgstats.dev](images/pgstats.jpeg)
 - [Что нового в плане мониторинга в PostgreSQL (Алексей Лесовский)](https://habr.com/ru/articles/658137/)
+- [Ваш PostgreSQL болеет молча. Десяток запросов, чтобы это увидеть](https://habr.com/ru/articles/1041480/)
 
 ### Полнотекстовый поиск
 

@@ -1,1 +1,2 @@
 - [crontab guru](https://crontab.guru/)
+- [Почему cron — самый опасный инструмент в Linux](https://habr.com/ru/companies/ruvds/articles/1052508/)

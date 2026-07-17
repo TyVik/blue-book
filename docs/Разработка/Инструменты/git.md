@@ -9,7 +9,7 @@
 
 - [Clean Git History, или Тёмная сторона VCS](https://habr.com/ru/companies/ozontech/articles/754526/)
 - [Оформление коммитов](https://github.com/slashsbin/styleguide-git-commit-message)
-- [Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/)
+- [Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/) и его критика [Хватит использовать Conventional Commits](https://habr.com/ru/articles/1044970/)
 - [Gitmoji](https://gitmoji.dev/) - сборник эмодзи к коммитам
 
 ### Работа с большими репозиториями

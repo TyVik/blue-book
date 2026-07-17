@@ -10,3 +10,8 @@
 
 
 - [Игры, которые помогают понять абстракции](https://habr.com/ru/articles/814871/)
+
+## Клавиатура
+
+- [Онлайн-игры на клавиатуре](https://nabiraem.ru/games#touchtyping)
+- [edclub](https://www.edclub.com/sportal/program-68.game)

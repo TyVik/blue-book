@@ -8,6 +8,7 @@
 - [Grok](https://grok.com/)
 - [Что вы не знали о Claude Code: архитектура, управление и инженерные практики / Хабр](https://habr.com/ru/articles/1012412/)
 - [Zed — Your last next editor](https://zed.dev/)
+- [GPT-шорткаты: что работает, а что нет](https://habr.com/ru/articles/1033518/)
 
 ### Сервисы
 - [Google Antigravity Pricing](https://antigravity.google/pricing)
@@ -20,6 +21,7 @@
 - [OpenCode \| The open source AI coding agent](https://opencode.ai/)
 - [Title Unavailable \| Site Unreachable](https://www.canirun.ai/)
 - [Koda — AI-помощник для разработчиков](https://kodacode.ru/tariffs)
+- [А есть ли бесплатные API нейросетей?](https://habr.com/ru/articles/1041398/)
 
 ### Для обучения
 - [Представляем режим обучения \| OpenAI](https://openai.com/ru-RU/index/chatgpt-study-mode/)

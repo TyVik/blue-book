@@ -4,6 +4,7 @@
 - [6 советов от практиков AI coding / Хабр](https://habr.com/ru/articles/997098/)
 - [Claude Code](https://roadmap.sh/claude-code)
 - [Айсберг Claude Code: 30+ возможностей от новичка до автоматизации / Хабр](https://habr.com/ru/companies/yoomoney/articles/1015548/)
+- [10 настроек Claude Code, до которых большинство разработчиков не доходит](https://habr.com/ru/articles/1028988/)
 
 ### Регистрация
 - [Установка Claude AI (Клод ИИ) Code на зарубежный VPS для обхода санкций и как купить подписку в России / Хабр](https://habr.com/ru/companies/paybeam/articles/1013254/)

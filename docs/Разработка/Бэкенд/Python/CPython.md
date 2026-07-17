@@ -3,3 +3,4 @@
 - [Визуализация управления памятью в Python: что творится внутри? / Хабр](https://habr.com/ru/companies/ntechlab/articles/946098/)
 - [CPython — Сборка мусора изнутри, ч.2 / Хабр](https://habr.com/ru/articles/951250/)
 - [GitHub - bterwijn/memory\_graph: Teaching tool and debugging aid in context of references, mutable data types, and shallow and deep copy.](https://github.com/bterwijn/memory_graph)
+- [Как устроен словарь в CPython: compact dict, key sharing и что с ним делает free-threading](https://habr.com/ru/companies/otus/articles/1029210/) - путь к оптимизации словарей
